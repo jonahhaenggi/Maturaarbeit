@@ -10,6 +10,7 @@ public class Wikipedia extends JPanel {
 
     public float x, y, län, alpha_winkel;
     public int iteration_n;
+    int x;
 
     public void paint(Graphics g) {
 	Graphics2D g2d = (Graphics2D) g;
